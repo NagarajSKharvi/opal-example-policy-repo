@@ -39,6 +39,10 @@
       {
         "action": "adopt",
         "type": "cat"
+      },
+      {
+        "action": "read",
+        "type": "tiger"
       }
     ],
     "employee": [
